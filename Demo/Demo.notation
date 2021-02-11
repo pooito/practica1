@@ -63,16 +63,6 @@
             <element xmi:type="uml:Property" href="Demo.uml#_2nVMIGwXEeuqx6VIlDPP_Q"/>
             <layoutConstraint xmi:type="notation:Location" xmi:id="_2nrxcWwXEeuqx6VIlDPP_Q"/>
           </children>
-          <children xmi:type="notation:Shape" xmi:id="_IhakYGweEeuqx6VIlDPP_Q" type="Property_ClassAttributeLabel">
-            <styles xmi:type="notation:StringListValueStyle" xmi:id="_OaVfkGweEeuqx6VIlDPP_Q" name="maskLabel">
-              <stringListValue>visibility</stringListValue>
-              <stringListValue>name</stringListValue>
-              <stringListValue>type</stringListValue>
-              <stringListValue>derived</stringListValue>
-            </styles>
-            <element xmi:type="uml:Property" href="Demo.uml#_IhQMUGweEeuqx6VIlDPP_Q"/>
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_IhakYWweEeuqx6VIlDPP_Q"/>
-          </children>
           <styles xmi:type="notation:TitleStyle" xmi:id="_r4zAkWarEeuEv6Q5m2F5dg"/>
           <styles xmi:type="notation:SortingStyle" xmi:id="_r4zAkmarEeuEv6Q5m2F5dg"/>
           <styles xmi:type="notation:FilteringStyle" xmi:id="_r4zAk2arEeuEv6Q5m2F5dg"/>
