@@ -135,5 +135,13 @@ public class Mascota {
 	}
 
 
+	public String toString() {
+		String t=this.nombre;
+	    t+="\n\tSu clasificación es:"+this.clasificacion;
+	    t+="\n\tSu raza es:"+this.raza;
+	    t+="\n\tSu edad es:"+this.edad;
+	    t+="\n\tSu genero es:"+this.genero+"\n";
+	    return t;
+	}
 
 }
